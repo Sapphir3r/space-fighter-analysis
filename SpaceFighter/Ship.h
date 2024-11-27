@@ -97,7 +97,7 @@ protected:
 
 private:
 
-	float m_speed = 300; // pixels per second
+	float m_speed = 700; // pixels per second
 
 	float m_maxHitPoints = 3;
 	float m_hitPoints = m_maxHitPoints;
